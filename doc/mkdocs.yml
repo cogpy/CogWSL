@@ -25,6 +25,8 @@ nav:
        - 'Interop': technical-documentation/interop.md
        - 'Drvfs & Plan9': technical-documentation/drvfs.md
        - 'Systemd': technical-documentation/systemd.md
+    - 'Cognitive Framework':
+       - 'OpenCog Architecture': cognitive-framework.md
       
       
 plugins:
